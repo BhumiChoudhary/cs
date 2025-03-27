@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>
+computer
+</TITLE>
+<BODY>
+<h1>heading1</h1>
+<h2>heading2</h2>
+<h3>heading3</h3>
+<h4>heading4</h4>
+<h5>heading5</h5>
+<h6>heading6</h6>
+<P>THE FIRST LAB PROGRAMME TO DEVELOP A HTML PROGRAMME TO DISPLAY PAGE TITLE,HEADING,PARAGRAPH<br/> </P>
+<hr>
+<b> displaying the bold text</b>
+<br/>
+<br/>
+<i> displaying italic text </i><br/>
+<br/><hr>
+<small>this is the smal text</small><br/>
+<p>chemical formula of water H<sub>2</sub>0</p>
+<p>(a+b)<sup>2</sup></p>
+<p>this is the example of <strong> the strong element </strong></p>
+
+
+
+</BODY>
+</HTML>
+
+
+
+
+
